@@ -1,4 +1,14 @@
-# 🚀 Lógica em JavaScript
+# 🚀💻 Lógica em JavaScript
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250">
+</p>
+
+<p align="center">
+🔥 Treinando lógica de programação na prática 🔥  
+</p>
+
+---
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,js" />
