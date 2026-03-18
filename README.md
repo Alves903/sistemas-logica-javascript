@@ -1,51 +1,46 @@
-# 🚀💻 Lógica em JavaScript
+# 🚀 Lógica em JavaScript
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250">
-</p>
-
-<p align="center">
-🔥 Treinando lógica de programação na prática 🔥  
+  <img src="https://skillicons.dev/icons?i=html,js" />
 </p>
 
 ---
 
-## 🧠 Sobre o projeto
+## 🧠 Sobre
 
-Este repositório contém vários sistemas simples feitos com **JavaScript**, focados em treinar lógica de programação de forma prática.
+Projetos simples feitos para treinar **lógica de programação** usando apenas:
 
----
-
-## 📦 Sistemas criados
-
-✨ Média Escolar  
-🎮 Velocidade de Jogo  
-👥 Limite de Usuários  
-🚚 Frete Grátis  
-🏆 Pontuação de Jogo  
-🔞 Cadastro com Idade Mínima  
-🛒 Compra com Desconto  
+- 🟠 HTML  
+- 🟡 JavaScript  
 
 ---
 
-## ⚙️ Tecnologias
+## 📦 Sistemas
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
+✔️ Média Escolar  
+✔️ Velocidade de Jogo  
+✔️ Limite de Usuários  
+✔️ Frete Grátis  
+✔️ Pontuação de Jogo  
+✔️ Cadastro com Idade  
+✔️ Compra com Desconto  
 
 ---
 
 ## 🎯 Objetivo
 
-💡 Aprender lógica de programação  
-💡 Criar sistemas simples  
-💡 Entender como funcionam regras reais  
+💡 Praticar lógica  
+💡 Criar sistemas interativos  
+💡 Aprender JavaScript na prática  
 
 ---
 
 ## ▶️ Como usar
 
-```bash
-# Clone o repositório
-git clone https://github.com/seu-usuario/seu-repositorio.git
+Abra o arquivo `index.html` no navegador e teste os sistemas 🚀
+
+---
+
+## 👨‍💻 Autor
+
+Lukas Alves Gonçalves
